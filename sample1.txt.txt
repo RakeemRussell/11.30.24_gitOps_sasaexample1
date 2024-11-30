@@ -1,0 +1,4 @@
+Name = Rami
+class = 6
+desired income = $250k
+desired wife = !ABW
